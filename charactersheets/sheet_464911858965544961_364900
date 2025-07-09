@@ -1,0 +1,364 @@
+{
+  "success": true,
+  "build": {
+    "name": "Lyle, \"Il Leviatano di Legno\"",
+    "class": "Exemplar",
+    "dualClass": null,
+    "level": 3,
+    "ancestry": "Poppet",
+    "heritage": "Ghost Poppet",
+    "background": "Cannoneer",
+    "alignment": "N",
+    "gender": "Not set",
+    "age": "Not set",
+    "deity": "Not set",
+    "size": 1,
+    "sizeName": "Small",
+    "keyability": "str",
+    "languages": [
+      "None selected"
+    ],
+    "rituals": [],
+    "resistances": [
+      "negative 1"
+    ],
+    "inventorMods": [],
+    "abilities": {
+      "str": 18,
+      "dex": 10,
+      "con": 16,
+      "int": 10,
+      "wis": 12,
+      "cha": 12,
+      "breakdown": {
+        "ancestryFree": [
+          "Str"
+        ],
+        "ancestryBoosts": [
+          "Con",
+          "Cha"
+        ],
+        "ancestryFlaws": [
+          "Dex"
+        ],
+        "backgroundBoosts": [
+          "Str",
+          "Con"
+        ],
+        "classBoosts": [
+          "Str"
+        ],
+        "mapLevelledBoosts": {
+          "1": [
+            "Con",
+            "Str",
+            "Dex",
+            "Wis"
+          ]
+        }
+      }
+    },
+    "attributes": {
+      "ancestryhp": 6,
+      "classhp": 10,
+      "bonushp": 0,
+      "bonushpPerLevel": 0,
+      "speed": 25,
+      "speedBonus": 0
+    },
+    "proficiencies": {
+      "classDC": 2,
+      "perception": 4,
+      "fortitude": 4,
+      "reflex": 2,
+      "will": 4,
+      "heavy": 0,
+      "medium": 2,
+      "light": 2,
+      "unarmored": 2,
+      "advanced": 0,
+      "martial": 2,
+      "simple": 2,
+      "unarmed": 2,
+      "castingArcane": 0,
+      "castingDivine": 0,
+      "castingOccult": 0,
+      "castingPrimal": 0,
+      "acrobatics": 4,
+      "arcana": 0,
+      "athletics": 2,
+      "crafting": 0,
+      "deception": 0,
+      "diplomacy": 2,
+      "intimidation": 0,
+      "medicine": 0,
+      "nature": 0,
+      "occultism": 0,
+      "performance": 0,
+      "religion": 2,
+      "society": 2,
+      "stealth": 2,
+      "survival": 0,
+      "thievery": 0
+    },
+    "mods": {},
+    "feats": [
+      [
+        "Shield Block",
+        null,
+        "Awarded Feat",
+        1
+      ],
+      [
+        "Hefty Hauler",
+        null,
+        "Awarded Feat",
+        1
+      ],
+      [
+        "Canny Acumen",
+        "Perception",
+        "Awarded Feat",
+        1
+      ],
+      [
+        "Ghost Poppet",
+        null,
+        "Heritage",
+        1,
+        "Heritage Feat",
+        "standardChoice",
+        null
+      ],
+      [
+        "Sanctified Soul",
+        null,
+        "Class Feat",
+        1,
+        "Exemplar Feat 1",
+        "standardChoice",
+        null
+      ],
+      [
+        "Shiny Button Eyes",
+        "Perception",
+        "Ancestry Feat",
+        1,
+        "Poppet Feat 1",
+        "standardChoice",
+        null
+      ],
+      [
+        "Leap the Falls",
+        null,
+        "Class Feat",
+        2,
+        "8dba5f4a-3313-40a5-afc3-cac0456668ee",
+        "standardChoice",
+        null
+      ],
+      [
+        "Slippery Prey",
+        null,
+        "Skill Feat",
+        2,
+        "Skill Feat 2",
+        "standardChoice",
+        null
+      ],
+      [
+        "Living Vessel Dedication",
+        null,
+        "Class Feat",
+        2,
+        "Exemplar Feat 2",
+        "standardChoice",
+        null
+      ],
+      [
+        "Robust Health",
+        null,
+        "General Feat",
+        3,
+        "General Feat 3",
+        "standardChoice",
+        null
+      ]
+    ],
+    "specials": [
+      "Shift Immanence",
+      "Titan's Breaker",
+      "Fetching Bangles",
+      "Gaze Sharp as Steel",
+      "Humble Strikes",
+      "Spark Transcendence",
+      "Darkvision",
+      "Flammable",
+      "Constructed",
+      "Entity's Resurgence",
+      "The Radiant",
+      "Ghost Poppet"
+    ],
+    "lores": [
+      [
+        "Warfare",
+        2
+      ]
+    ],
+    "equipmentContainers": {
+      "f7486769-016c-49f4-9d8c-59f08d5ed097": {
+        "containerName": "Backpack",
+        "bagOfHolding": false,
+        "backpack": true
+      }
+    },
+    "equipment": [
+      [
+        "Rations",
+        2,
+        "f7486769-016c-49f4-9d8c-59f08d5ed097",
+        "Invested"
+      ],
+      [
+        "Bedroll",
+        1,
+        "f7486769-016c-49f4-9d8c-59f08d5ed097",
+        "Invested"
+      ],
+      [
+        "Gemma dell'arena di Sobek",
+        1,
+        "Invested"
+      ],
+      [
+        "Chalk",
+        10,
+        "f7486769-016c-49f4-9d8c-59f08d5ed097",
+        "Invested"
+      ],
+      [
+        "Numbing Tonic (Minor)",
+        1,
+        "Invested"
+      ],
+      [
+        "Flint and Steel",
+        1,
+        "f7486769-016c-49f4-9d8c-59f08d5ed097",
+        "Invested"
+      ],
+      [
+        "Waterskin",
+        1,
+        "f7486769-016c-49f4-9d8c-59f08d5ed097",
+        "Invested"
+      ],
+      [
+        "Rope",
+        1,
+        "f7486769-016c-49f4-9d8c-59f08d5ed097",
+        "Invested"
+      ],
+      [
+        "Antidote (Lesser)",
+        1,
+        "Invested"
+      ],
+      [
+        "Soap",
+        1,
+        "f7486769-016c-49f4-9d8c-59f08d5ed097",
+        "Invested"
+      ],
+      [
+        "Backpack",
+        1,
+        "Invested"
+      ],
+      [
+        "Torch",
+        5,
+        "f7486769-016c-49f4-9d8c-59f08d5ed097",
+        "Invested"
+      ],
+      [
+        "Fan of the Four Winds",
+        1,
+        "Invested"
+      ],
+      [
+        "Elixir of Life (Minor)",
+        2,
+        "Invested"
+      ]
+    ],
+    "specificProficiencies": {
+      "trained": [],
+      "expert": [],
+      "master": [],
+      "legendary": []
+    },
+    "weapons": [
+      {
+        "name": "Maul",
+        "qty": 1,
+        "prof": "martial",
+        "die": "d12",
+        "pot": 1,
+        "str": "",
+        "mat": null,
+        "display": "+1 Maul",
+        "runes": [],
+        "damageType": "B",
+        "attack": 10,
+        "damageBonus": 4,
+        "extraDamage": [],
+        "increasedDice": false,
+        "isInventor": false
+      }
+    ],
+    "money": {
+      "cp": 5,
+      "sp": 2,
+      "gp": 38,
+      "pp": 0
+    },
+    "armor": [
+      {
+        "name": "Lattice Armor",
+        "qty": 1,
+        "prof": "medium",
+        "pot": 0,
+        "res": "",
+        "mat": null,
+        "display": "Lattice Armor",
+        "worn": true,
+        "runes": []
+      },
+      {
+        "name": "Lattice Armor",
+        "qty": 1,
+        "prof": "medium",
+        "pot": 0,
+        "res": "",
+        "mat": null,
+        "display": "Lattice Armor",
+        "worn": false,
+        "runes": []
+      }
+    ],
+    "spellCasters": [],
+    "focusPoints": 0,
+    "focus": {},
+    "formula": [],
+    "acTotal": {
+      "acProfBonus": 5,
+      "acAbilityBonus": 0,
+      "acItemBonus": 4,
+      "acTotal": 19,
+      "shieldBonus": null
+    },
+    "pets": [],
+    "familiars": []
+  }
+}

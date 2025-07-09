@@ -1,0 +1,527 @@
+{
+  "success": true,
+  "build": {
+    "name": "Serhat Hukuk",
+    "class": "Witch",
+    "dualClass": null,
+    "level": 3,
+    "ancestry": "Samsaran",
+    "heritage": "Sanctuary Samsaran",
+    "background": "Cursed",
+    "alignment": "N",
+    "gender": "M",
+    "age": "22",
+    "deity": "Nethys",
+    "size": 2,
+    "sizeName": "Medium",
+    "keyability": "int",
+    "languages": [
+      "Common",
+      "Dwarven",
+      "Elven",
+      "Fey",
+      "Gnomish",
+      "Valeshiano (Dialetto)",
+      "Samsaran"
+    ],
+    "rituals": [],
+    "resistances": [],
+    "inventorMods": [],
+    "abilities": {
+      "str": 10,
+      "dex": 16,
+      "con": 12,
+      "int": 18,
+      "wis": 10,
+      "cha": 12,
+      "breakdown": {
+        "ancestryFree": [
+          "Int",
+          "Dex"
+        ],
+        "ancestryBoosts": [],
+        "ancestryFlaws": [],
+        "backgroundBoosts": [
+          "Int",
+          "Dex"
+        ],
+        "classBoosts": [
+          "Int"
+        ],
+        "mapLevelledBoosts": {
+          "1": [
+            "Int",
+            "Dex",
+            "Cha",
+            "Con"
+          ]
+        }
+      }
+    },
+    "attributes": {
+      "ancestryhp": 8,
+      "classhp": 6,
+      "bonushp": 0,
+      "bonushpPerLevel": 0,
+      "speed": 25,
+      "speedBonus": 0
+    },
+    "proficiencies": {
+      "classDC": 2,
+      "perception": 2,
+      "fortitude": 2,
+      "reflex": 2,
+      "will": 4,
+      "heavy": 0,
+      "medium": 0,
+      "light": 0,
+      "unarmored": 2,
+      "advanced": 0,
+      "martial": 0,
+      "simple": 2,
+      "unarmed": 2,
+      "castingArcane": 0,
+      "castingDivine": 0,
+      "castingOccult": 2,
+      "castingPrimal": 0,
+      "acrobatics": 0,
+      "arcana": 2,
+      "athletics": 0,
+      "crafting": 4,
+      "deception": 2,
+      "diplomacy": 2,
+      "intimidation": 0,
+      "medicine": 0,
+      "nature": 0,
+      "occultism": 4,
+      "performance": 0,
+      "religion": 0,
+      "society": 2,
+      "stealth": 2,
+      "survival": 0,
+      "thievery": 2
+    },
+    "mods": {
+      "Acrobatics": {
+        "Circumstance Bonus": 1
+      },
+      "Arcana": {
+        "Circumstance Bonus": 1
+      },
+      "Athletics": {
+        "Circumstance Bonus": 1
+      },
+      "Crafting": {
+        "Circumstance Bonus": 1
+      },
+      "Deception": {
+        "Circumstance Bonus": 1
+      },
+      "Diplomacy": {
+        "Circumstance Bonus": 1
+      },
+      "Intimidation": {
+        "Circumstance Bonus": 1
+      },
+      "Medicine": {
+        "Circumstance Bonus": 1
+      },
+      "Nature": {
+        "Circumstance Bonus": 1
+      },
+      "Occultism": {
+        "Circumstance Bonus": 1
+      },
+      "Performance": {
+        "Circumstance Bonus": 1
+      },
+      "Religion": {
+        "Circumstance Bonus": 1
+      },
+      "Society": {
+        "Circumstance Bonus": 1
+      },
+      "Stealth": {
+        "Circumstance Bonus": 1
+      },
+      "Survival": {
+        "Circumstance Bonus": 1
+      },
+      "Thievery": {
+        "Circumstance Bonus": 1
+      },
+      "Lore: Legal": {
+        "Circumstance Bonus": 1
+      }
+    },
+    "feats": [
+      [
+        "Sanctuary Samsaran",
+        null,
+        "Heritage",
+        1,
+        "Heritage Feat",
+        "standardChoice",
+        null
+      ],
+      [
+        "All This Will Happen Again",
+        null,
+        "Ancestry Feat",
+        1,
+        "Samsaran Feat 1",
+        "standardChoice",
+        null
+      ],
+      [
+        "Contract Negotiator",
+        null,
+        "Skill Feat",
+        2,
+        "Skill Feat 2",
+        "standardChoice",
+        null
+      ],
+      [
+        "Enhanced Familiar",
+        null,
+        "Class Feat",
+        2,
+        "Witch Feat 2",
+        "standardChoice",
+        null
+      ],
+      [
+        "Eldritch Researcher Dedication",
+        null,
+        "Archetype Feat",
+        2,
+        "Free Archetype 2",
+        "standardChoice",
+        null
+      ],
+      [
+        "Magical Crafting",
+        null,
+        "General Feat",
+        3,
+        "General Feat 3",
+        "standardChoice",
+        null
+      ]
+    ],
+    "specials": [
+      "Familiar",
+      "Patron's Puppet",
+      "The Unseen Broker Patron",
+      "Familiar of Enticing Negotiation",
+      "Witch Spellcasting",
+      "Cryptomnesia",
+      "Warding Sign",
+      "Tap the Past",
+      "Occult",
+      "Occultism",
+      "Sanctuary Samsaran"
+    ],
+    "lores": [
+      [
+        "Legal",
+        2
+      ],
+      [
+        "Curse",
+        2
+      ]
+    ],
+    "equipmentContainers": {
+      "4d044277-7a20-4454-823f-ef7d237a1624": {
+        "containerName": "Backpack",
+        "bagOfHolding": false,
+        "backpack": true
+      }
+    },
+    "equipment": [
+      [
+        "Rations",
+        2,
+        "4d044277-7a20-4454-823f-ef7d237a1624",
+        "Invested"
+      ],
+      [
+        "Rope",
+        1,
+        "4d044277-7a20-4454-823f-ef7d237a1624",
+        "Invested"
+      ],
+      [
+        "Chalk",
+        10,
+        "4d044277-7a20-4454-823f-ef7d237a1624",
+        "Invested"
+      ],
+      [
+        "Soap",
+        1,
+        "4d044277-7a20-4454-823f-ef7d237a1624",
+        "Invested"
+      ],
+      [
+        "Waterskin",
+        1,
+        "4d044277-7a20-4454-823f-ef7d237a1624",
+        "Invested"
+      ],
+      [
+        "Bedroll",
+        1,
+        "4d044277-7a20-4454-823f-ef7d237a1624",
+        "Invested"
+      ],
+      [
+        "Backpack",
+        1,
+        "Invested"
+      ],
+      [
+        "Flint and Steel",
+        1,
+        "4d044277-7a20-4454-823f-ef7d237a1624",
+        "Invested"
+      ],
+      [
+        "Artisan's Toolkit",
+        1,
+        "Invested"
+      ],
+      [
+        "Kamachikuy Willay",
+        1,
+        "Invested"
+      ],
+      [
+        "Torch",
+        5,
+        "4d044277-7a20-4454-823f-ef7d237a1624",
+        "Invested"
+      ],
+      [
+        "Antidote (Lesser)",
+        2,
+        "Invested"
+      ]
+    ],
+    "specificProficiencies": {
+      "trained": [],
+      "expert": [],
+      "master": [],
+      "legendary": []
+    },
+    "weapons": [
+      {
+        "name": "Corset Knife",
+        "qty": 1,
+        "prof": "simple",
+        "die": "d4",
+        "pot": 0,
+        "str": "",
+        "mat": null,
+        "display": "Corset Knife",
+        "runes": [],
+        "damageType": "P",
+        "attack": 8,
+        "damageBonus": 0,
+        "extraDamage": [],
+        "increasedDice": false,
+        "isInventor": false
+      }
+    ],
+    "money": {
+      "cp": 7,
+      "sp": 4,
+      "gp": 4,
+      "pp": 0
+    },
+    "armor": [
+      {
+        "name": "Scroll Robes",
+        "qty": 1,
+        "prof": "unarmored",
+        "pot": 0,
+        "res": "",
+        "mat": null,
+        "display": "Scroll Robes",
+        "worn": true,
+        "runes": []
+      }
+    ],
+    "spellCasters": [
+      {
+        "name": "Witch",
+        "magicTradition": "occult",
+        "spellcastingType": "prepared",
+        "ability": "int",
+        "proficiency": 2,
+        "focusPoints": 0,
+        "innate": false,
+        "perDay": [
+          5,
+          3,
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "spells": [
+          {
+            "spellLevel": 1,
+            "list": [
+              "Agitate",
+              "Enfeeble",
+              "Friendfetch",
+              "Ill Omen",
+              "Inkshot",
+              "Pocket Library",
+              "Runic Weapon"
+            ]
+          },
+          {
+            "spellLevel": 0,
+            "list": [
+              "Detect Magic",
+              "Guidance",
+              "Infectious Enthusiasm",
+              "Light",
+              "Message",
+              "Prestidigitation",
+              "Shield",
+              "Sigil",
+              "Telekinetic Hand",
+              "Void Warp"
+            ]
+          },
+          {
+            "spellLevel": 2,
+            "list": [
+              "False Vitality",
+              "Paranoia"
+            ]
+          }
+        ],
+        "prepared": [
+          {
+            "spellLevel": 0,
+            "list": [
+              "Guidance",
+              "Shield",
+              "Void Warp",
+              "Infectious Enthusiasm",
+              "Sigil"
+            ]
+          },
+          {
+            "spellLevel": 1,
+            "list": [
+              "Command",
+              "Ill Omen",
+              "Inkshot"
+            ]
+          },
+          {
+            "spellLevel": 2,
+            "list": [
+              "Agitate",
+              "Paranoia"
+            ]
+          }
+        ],
+        "blendedSpells": []
+      },
+      {
+        "name": "Eldritch Researcher",
+        "magicTradition": "occult",
+        "spellcastingType": "prepared",
+        "ability": "int",
+        "proficiency": 2,
+        "focusPoints": 0,
+        "innate": false,
+        "perDay": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "spells": [
+          {
+            "spellLevel": 0,
+            "list": [
+              "Daze"
+            ]
+          }
+        ],
+        "prepared": [],
+        "blendedSpells": []
+      }
+    ],
+    "focusPoints": 1,
+    "focus": {
+      "occult": {
+        "int": {
+          "abilityBonus": 4,
+          "proficiency": 2,
+          "itemBonus": 0,
+          "focusCantrips": [
+            "Pact Broker"
+          ],
+          "focusSpells": [
+            "Patron's Puppet"
+          ]
+        }
+      }
+    },
+    "formula": [
+      {
+        "type": "other",
+        "known": [
+          "Runestone",
+          "Healing Potion (Minor)",
+          "Ring of Sigils"
+        ]
+      }
+    ],
+    "acTotal": {
+      "acProfBonus": 5,
+      "acAbilityBonus": 3,
+      "acItemBonus": 0,
+      "acTotal": 18,
+      "shieldBonus": null
+    },
+    "pets": [],
+    "familiars": [
+      {
+        "type": "Familiar",
+        "name": "Inkdrop (Grapheneum)",
+        "equipment": [],
+        "specific": "d2531386-a964-41fd-ad50-6c0bad3072e4",
+        "abilities": [
+          "Construct",
+          "Darkvision",
+          "Spell Delivery",
+          "Ambassador",
+          "Snoop"
+        ]
+      }
+    ]
+  }
+}
